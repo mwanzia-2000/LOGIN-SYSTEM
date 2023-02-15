@@ -1,0 +1,9 @@
+#user and password
+
+user=input("Enter username:")
+password=input("Enter password:")
+
+if user=="bscit-05-0023/2019" and password=="BSCIT-05-0023/2019":
+ print("Login successfull")
+else:
+ print("Invalid credetials")
